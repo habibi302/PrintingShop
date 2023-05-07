@@ -1,0 +1,12 @@
+{
+  "name": "printing-shop-server",
+  "version": "1.0.0",
+  "description": "this server is for a online printing shop website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Habibur Rahman",
+  "license": "ISC"
+}
